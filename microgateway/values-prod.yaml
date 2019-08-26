@@ -2,5 +2,5 @@ wso2:
   deployment:
     wso2microgw:
       dockerRegistry: "index.docker.io/aaquiff"
-      imageName: "wso2micro-gw"
+      imageName: "petstore"
       imageTag: ""
